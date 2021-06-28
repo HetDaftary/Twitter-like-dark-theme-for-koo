@@ -15,8 +15,8 @@ Go to the Stylus icon and click on the link of the website under "Write style fo
 
 ## Images
 
-* <b>Blue mode</b>
+<b>Blue mode</b>
 <img src = "img/blueMode.png">
 <br/>
-* <b>Black mode</b>
+<b>Black mode</b>
 <img src = "img/blackMode.png">
