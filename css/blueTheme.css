@@ -1,18 +1,43 @@
 @-moz-document domain("www.kooapp.com") {
-    .pH7Zh, .pH7Zh, .Dbt8g, .ONHfh, .ogqjk, .tvkyd, div, input, button, h5, textarea {
-        background-color:#15202b !important;
+    .pH7Zh, .pH7Zh, .Dbt8g, .ONHfh, .ogqjk, .tvkyd,span._3NfMI, div, input, button, h5, textarea {
+        background-color: #15202b !important;
         color:#ffffff !important;
     }
-    
+
     #attchMedia, div.Riyd0 {
         background-color: #ADD8E6 !important;
     }
+   
+    ._27JvU {
+        background-color: none !important;
+        color: #ffffff !important;
+    }
     
-    ._3ctZe {
+
+    ._3ctZe, html.no-js body div#app div.pH7Zh div._2knNJ div._6MIMT div._1ByFv div div._1YWt_ div a h5._2f_EU {
         color: #ffffff !important;    
     }
     
-    span {
+    span, ._3LTXF {
         color: #ffffff;
+    }
+    
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div div#kuParent div#IMP-49c3f98b-174f-4802-805a-5763efc697c4 div._3MQRA div._2-Dh- div div.ZHi_u div ul._3LTXF li._3VHZR span._3QdLP span,
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div div#kuParent div#IMP-49c3f98b-174f-4802-805a-5763efc697c4 div._3MQRA div._2-Dh- div div.ZHi_u div ul._3LTXF li._2aBXI span._3QdLP span,
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div div#kuParent div#IMP-49c3f98b-174f-4802-805a-5763efc697c4 div._3MQRA div._2-Dh- div div.ZHi_u div ul._3LTXF div.SocialMediaShareButton.SocialMediaShareButton--facebook li._1SVXq span._3QdLP span, 
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div div#kuParent div#IMP-49c3f98b-174f-4802-805a-5763efc697c4 div._3MQRA div._2-Dh- div div.ZHi_u div ul._3LTXF div.SocialMediaShareButton.SocialMediaShareButton--whatsapp li._3yqx7 span._3QdLP span, 
+    ._3LTXF, ._285LB, ._3QdLP, snap._3QdLP, ._1SVXq, ._3yqx7, .SocialMediaShareButton.SocialMediaShareButton--whatsapp {
+        background-color: #7b777c !important;
+    }
+
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div#subHeader span._27JvU {
+        color:#000000 !important;   
+    }
+
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div div#kuParent div#IMP-49c3f98b-174f-4802-805a-5763efc697c4 div._3MQRA div._2-Dh- div div.ZHi_u div img,
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div._2kuid span img,
+    html.no-js body div#app div.pH7Zh div._3IYIX div#scrollContainer div div._2H-nN div#subHeader span {
+        -webkit-filter: invert(1);
+        filter: invert(1);
     }
 }
