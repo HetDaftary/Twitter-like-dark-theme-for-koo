@@ -5,7 +5,7 @@ This extension is recommended by the Firefox and it is also open-souce.
 
 ## Info on Stylus
 
-* [GitHub link](https://github.com/stylus/stylus)
+* [GitHub link](https://github.com/openstyles/stylus)
 * [FireFox Download link](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 * [Chrome Download link](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
 
